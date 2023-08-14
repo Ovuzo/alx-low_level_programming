@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * 0-positive_or_negative.c - Prints whether a number is positive, zero, or negative.
- * main - function
+ * 0-positive_or_negative.c - Prints random numbers
+ * main - Entry point of the program.
  * @n: The number to be evaluated.
  * Return: 0
  */

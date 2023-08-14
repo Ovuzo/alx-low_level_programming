@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * 0-positive_or_negative.c - it let one assigns random number to variablen
- *
- * Main - function
+ * 0-positive_or_negative.c - it let one assigns random number to the variable n
+ * main - function
  * Return: 0
  */
 

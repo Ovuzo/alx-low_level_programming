@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * 0-positive_or_negative.c - Prints random numbers
- * main - Entry point of the program
- * Return: 0
+ * main - print random values is n is positive zero or negative
+ * Return: always 0
  */
 
 int main(void)
